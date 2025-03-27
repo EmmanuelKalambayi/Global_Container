@@ -1,17 +1,40 @@
-GlobalContainer – Dein Platz im Container, einfach reserviert.
-Dein Paket für einen kleinen Preis.
+# 🌍 GlobalContainer
 
-Mit GlobalContainer kannst du erstmals einfach und bequem aus Deutschland, Frankreich, Belgien und England Containerplatz für den Versand nach Afrika – z. B. nach Luanda (Angola) – oder in die andere Richtung reservieren.
+**Dein Paket für einen kleinen Preis.**
 
-Deine Vorteile auf einen Blick:
+Mit **GlobalContainer** kannst du erstmals einfach und bequem aus Deutschland, 
+Frankreich, Belgien und England Containerplatz für den Versand nach Afrika – z. B. 
+nach Luanda (Angola) – oder in die andere Richtung reservieren.
 
-🔍 Container finden: Verfügbare Container einsehen und direkt reservieren
-💬 Chatfunktion: Kommuniziere direkt mit anderen Nutzern
-🧾 Inserate & Gesuche: Erstelle Inserate oder Gesuche, verwalte, bearbeite oder lösche sie jederzeit
-⭐ Watchlist: Merke dir interessante Inserate und Gesuche
-🧑‍💼 Profil: Erstelle dein eigenes Nutzerprofil
-💳 Zahlung (coming soon): Bald kannst du direkt über die App bezahlen
-GlobalContainer bringt Menschen zusammen, die Dinge über Kontinente hinweg teilen, versenden oder transportieren möchten – ganz einfach über dein Smartphone.
+## 🚀 Features
+
+- 🔍 **Container finden**  
+  Verfügbare Container einsehen und direkt reservieren
+
+- 💬 **Chatfunktion**  
+  Kommuniziere direkt mit anderen Nutzern innerhalb der App
+
+- 🧾 **Inserate & Gesuche**  
+  Erstelle Inserate oder Gesuche, verwalte, bearbeite oder lösche sie jederzeit
+
+- ⭐ **Watchlist**  
+  Speichere interessante Inserate und Gesuche in deiner persönlichen Merkliste
+
+- 🧑‍💼 **Nutzerprofil**  
+  Erstelle dein eigenes Profil zur besseren Vernetzung
+
+- 💳 **Zahlungsabwicklung (coming soon)**  
+  Bald kannst du direkt über die App bezahlen
+
+## 📱 Zielgruppe
+
+Menschen aus **Deutschland, Frankreich, Belgien** und **England**, die Pakete oder Waren kostengünstig nach **Afrika** (z. B. Angola) oder zurück senden möchten.
+
+---
+
+**GlobalContainer** bringt Menschen zusammen, die Dinge über Kontinente hinweg teilen, versenden oder transportieren möchten – einfach, digital, mobil.
+
+
 
 ## Geplantes Design
 
