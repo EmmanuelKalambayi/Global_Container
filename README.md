@@ -1,8 +1,17 @@
-# GlobalContainer
+GlobalContainer – Dein Platz im Container, einfach reserviert.
+Dein Paket für einen kleinen Preis.
 
-** Your package for a small price. **
+Mit GlobalContainer kannst du erstmals einfach und bequem aus Deutschland, Frankreich, Belgien und England Containerplatz für den Versand nach Afrika – z. B. nach Luanda (Angola) – oder in die andere Richtung reservieren.
 
-Meine App "GlobalContainer" ermöglicht es Menschen erstmals aus Deutschland, Frankreich, Belgien und England, Containerplatz in einem Container zu reservieren, der nach Afrika, beispielsweise nach Angola Luanda oder umgekehrt, versendet. Benutzer können verfügbare Container einsehen und einen Platz reservieren. Zukünftig wird auch eine Zahlungsabwicklung direkt über die App möglich sein. 
+Deine Vorteile auf einen Blick:
+
+🔍 Container finden: Verfügbare Container einsehen und direkt reservieren
+💬 Chatfunktion: Kommuniziere direkt mit anderen Nutzern
+🧾 Inserate & Gesuche: Erstelle Inserate oder Gesuche, verwalte, bearbeite oder lösche sie jederzeit
+⭐ Watchlist: Merke dir interessante Inserate und Gesuche
+🧑‍💼 Profil: Erstelle dein eigenes Nutzerprofil
+💳 Zahlung (coming soon): Bald kannst du direkt über die App bezahlen
+GlobalContainer bringt Menschen zusammen, die Dinge über Kontinente hinweg teilen, versenden oder transportieren möchten – ganz einfach über dein Smartphone.
 
 ## Geplantes Design
 
